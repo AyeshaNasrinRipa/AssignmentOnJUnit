@@ -1,14 +1,10 @@
-import com.github.javafaker.Faker;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.Actions;
 
 import java.io.FileWriter;
 import java.io.IOException;
-import java.time.Duration;
+
 import java.util.List;
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 
