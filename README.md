@@ -22,7 +22,8 @@ It demonstrates JUnit assertions, form handling, and synchronization in Selenium
 4. Asserted the success message after form submission.  
 
 ### 🧾 Report Screenshot
-![Webform Report](reports/webform_report.png)
+<img width="1338" height="600" alt="image" src="https://github.com/user-attachments/assets/3464c389-b8cf-484b-8da5-8a949fe0009d" />
+
 
 ### 📹 Video Recording
 [▶ Watch Webform Automation Video](videos/webform_automation.mp4)
@@ -56,6 +57,7 @@ This automation script extracts all stock market table data from the DSEBD websi
 ---
 
 ## 📁 Project Structure
+
 
 
 
