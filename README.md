@@ -26,7 +26,7 @@ It demonstrates JUnit assertions, form handling, and synchronization in Selenium
 
 
 ### 📹 Video Recording
-[▶ Watch Webform Automation Video](videos/webform_automation.mp4)
+[![Watch the video](https://img.youtube.com/vi/4RMdBjML3u4/0.jpg)](https://www.youtube.com/watch?v=4RMdBjML3u4)
 
 ---
 
@@ -51,7 +51,7 @@ This automation script extracts all stock market table data from the DSEBD websi
 
 
 ### 📹 Video Recording
-[▶ Watch DSE Scraping Video](videos/dse_scraping.mp4)
+[![Watch the video](https://img.youtube.com/vi/kJvyU1da0EI/0.jpg)](https://www.youtube.com/watch?v=kJvyU1da0EI)
 
 ---
 
@@ -75,6 +75,7 @@ JUnit_WebAutomation
         │   └── WebFormAutomationTest.java
         └── resources
             └── report.txt
+
 
 
 
