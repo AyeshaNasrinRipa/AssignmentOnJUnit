@@ -58,6 +58,23 @@ This automation script extracts all stock market table data from the DSEBD websi
 
 ## 📁 Project Structure
 
+JUnit_Assignment_Batch16/
+├── .gitignore
+├── build.gradle                 # Gradle build file
+├── README.md                    # Assignment description
+├── gradle/
+│   └── wrapper/
+│       └── gradle-wrapper.jar   # Gradle wrapper
+├── src/
+│   └── test/
+│       ├── java/
+│       │   ├── BaseTest.java
+│       │   ├── Utils.java
+│       │   ├── WebFormAutomationTest.java
+│       │   └── DSETableScraper.java
+│       └── resources/
+│           └── report.txt       # Table scraper data
+
 
 
 
