@@ -42,7 +42,7 @@ This automation script extracts all stock market table data from the DSEBD websi
 2. Located the table element.  
 3. Extracted all cell data (row by row).  
 4. Printed all table cell values to the console.  
-5. Saved the output into a text file inside the **`results/`** folder.  
+5. Saved the output into a text file inside the **`resources/`** folder.  
 
 ### 📄 Output File
 [📂 Download DSE Data]
@@ -76,6 +76,7 @@ JUnit_WebAutomation
         │   └── WebFormAutomationTest.java
         └── resources
             └── report.txt
+
 
 
 
