@@ -24,7 +24,7 @@ public class DSETableScraper extends BaseTest{
         WebElement table = tableDiv.findElement(By.tagName("table"));
         List<WebElement> tbodies = table.findElements(By.tagName("tbody"));
 
-        FileWriter writer = new FileWriter("./src/test/resources/new.txt");
+        FileWriter writer = new FileWriter("./src/test/resources/report.txt");
         try {
 
             for (WebElement tbody : tbodies) {
@@ -41,7 +41,7 @@ public class DSETableScraper extends BaseTest{
                 }
             }
         } finally {
-            writer.close(); // ensure all data is written
+            writer.close();
         }
     }}
 
